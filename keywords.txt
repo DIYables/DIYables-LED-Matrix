@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For DIYables_LED_Matrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DIYables_LED_Matrix	KEYWORD1
+DIYables_Max7219	KEYWORD1
+DIYables_Font	KEYWORD1
+led_matrix	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+clear	KEYWORD2
+show	KEYWORD2
+setBrightness	KEYWORD2
+print	KEYWORD2
+printChar	KEYWORD2
+printBitmap	KEYWORD2
+printCustomChar	KEYWORD2
+getDisplayWidth	KEYWORD2
+getDisplayHeight	KEYWORD2
+getCharWidth	KEYWORD2
+getTextWidth	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
